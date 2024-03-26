@@ -5,7 +5,7 @@
   <value name="vscodeversion" type="string">1.87.2</value>
   <value name="extversion" type="string">1.4.29</value>
   <value name="ExeName" type="string">Microsoft.CodeAnalysis.LanguageServer</value>
-  <value name="StillAlive" type="qword">133559500576592514</value>
+  <value name="StillAlive" type="qword">133559503576816703</value>
   <value name="extname" type="string">ms-dotnettools.csdevkit</value>
   <value name="PID" type="int">6354</value>
   <value name="VSIs64BitProcess" type="string">True</value>
